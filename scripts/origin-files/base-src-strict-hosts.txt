@@ -310,4 +310,4 @@
 127.0.0.1 xmr.2miners.com
 127.0.0.1 xmr.cool
 127.0.0.1 zymerget.win
-<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;root_namespace_id=1932776&amp;state=A3WCLAaNTwD1FerxUWQnOA==&amp;code_challenge=QymFhM3NNJznVjMz330gLmOlXHNhb9sfuqut1YjpJNQ">Found</a>.
+<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;root_namespace_id=1932776&amp;state=U-laHyc4u66D4cS5oIgGyg==&amp;code_challenge=nRlqt9b-NpMFuDNuzzpQf1xPpg0nDZ-4_y3wObj-d5E">Found</a>.
